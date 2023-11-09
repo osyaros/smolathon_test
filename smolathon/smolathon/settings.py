@@ -139,13 +139,10 @@ LOGIN_URL = reverse_lazy('login')
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-CUR_DIR = Path(file).parent.parent
-static_route_idkname = CUR_DIR.joinpath('smolathon').joinpath('static')
+
 STATIC_URL = "static/"
 STATIC_ROOT = os.path.join(PROJECT_ROOT, "static")
-STATICFILES_DIRS = [
-    os.path.join(BASE_DIR), static_route_idkname,
-]
+
 
 MEDIA_URL = "/media/"
 MEDIA_ROOT = os.path.join(BASE_DIR, "media/")
