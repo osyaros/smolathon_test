@@ -29,6 +29,7 @@
     <a href="https://github.com/NikitaKrylov/SmolathonHack/issues">Request Feature</a>
   </div>
 </p>
+
 ## О проекте
 <a name="о-проекте"></a>
 <p>Наш проект направлен на жителей  Смоленска, а также на туристов города. Вот некоторые характеристики целевой аудитории:></p>
