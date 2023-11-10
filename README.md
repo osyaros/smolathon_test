@@ -13,7 +13,7 @@ Android приложение должно решить следующие про
 <div align="center"><strong>Образование длинных очередей</strong></div>
 <div align="center"><strong>Трата сил, времени и нервов</strong></div>
 </p>
-<p align="center">
+< align="center">
   <h4 align="center">Наш веб-сервис направлен на сохранение и популяризацию исторического наследия Смоленска</h4>
   <h4 align="center">Сервис включает в себя:</h4>
   <li style="text-align:center"><strong>Систему сканирования QR-кодов при посещении различных мест и достопримечательностей.</strong></li>
@@ -28,4 +28,4 @@ Android приложение должно решить следующие про
   <a href="https://github.com/NikitaKrylov/SmolathonHack/issues">Report Bug</a>
   ·
   <a href="https://github.com/NikitaKrylov/SmolathonHack/issues">Request Feature</a>
-</p>
+
