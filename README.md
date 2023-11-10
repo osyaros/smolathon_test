@@ -14,4 +14,11 @@
   <br />
   <li style="text-align:center"><strong>Карточки с подробной информацией о каждой достопримечательности, музее, галерее и т.д., позволяя пользователю ознакомиться с каждым местом подробнее</strong></li>
   <li><strong>Историческую вкладку по векам, где пользователь может последовательно изучить определенные события и еще глубже погрузиться в историю города.</strong></li>
+  <br />
+  <a href="https://github.com/NikitaKrylov/SmolathonHack"><strong>Файлы »</strong></a>
+  <br />
+  <br />
+  <a href="https://github.com/NikitaKrylov/SmolathonHack/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/NikitaKrylov/SmolathonHack/issues">Request Feature</a>
 </div>
