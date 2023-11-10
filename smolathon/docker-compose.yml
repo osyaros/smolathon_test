@@ -27,8 +27,8 @@ services:
       - DJANGO_SUPERUSER_USERNAME=admin
       - DJANGO_SUPERUSER_PASSWORD=admin1234
       - DJANGO_SUPERUSER_EMAIL=admin@twtrubiks.com
-    expose:
-      - 8080
+    ports:
+      - 80:8080
     command: bash -c "python manage.py makemigrations && python manage.py migrate &&  gunicorn smolathon.wsgi -b 0.0.0.0:8080 "
     depends_on:
       db:
