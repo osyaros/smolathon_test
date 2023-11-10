@@ -46,7 +46,7 @@
 
 [dj]: https://i122.fastpic.org/big/2023/1111/a2/3df395c85f6f7f194f479500abdd96a2.png
 [dj-url]: https://www.djangoproject.com/
-[js]: https://i122.fastpic.org/big/2023/1111/65/34eaaebbca60bc0a0f3bfd1c382bf565.png
+[js]: https://i122.fastpic.org/big/2023/1111/df/161dd3d5d7003c918adbb9dedd0df6df.jpg
 [js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[doc]: https://i122.fastpic.org/big/2023/1111/3a/8a266c95cf07d7d850325161e479ec3a.jpg
+[doc]: https://i122.fastpic.org/big/2023/1111/87/8bd4545a1b9a340ab52da4e74b460a87.png
 [doc-url]: https://www.docker.com/
