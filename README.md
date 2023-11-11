@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/NikitaKrylov/SmolathonHack">
-    <img src ="https://i122.fastpic.org/big/2023/1111/90/1120b567149e137796ef77bde605ec90.png" alt="Logo" width="90" height="40" align-items="ce">
+    <img src ="https://i122.fastpic.org/big/2023/1111/90/1120b567149e137796ef77bde605ec90.png" alt="Logo" width="180" height="80" align-items="ce">
   </a>
   <h1 align="center">ОТКРОЙ СВОЙ СМОЛЕНСК</h1>
 </div>
