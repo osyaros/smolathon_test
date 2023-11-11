@@ -41,8 +41,36 @@
 * [![Django][Dj]][Dj-url]<a>  Django -  основной фреймворк</a>
 * [![Java][js]][js-url]<a>  JS - простой и такой ванильный</a>
 * [![Docker][Doc]][doc-url]<a>  Docker - для быстрой разработки, тестирования и развертывания</a>
+* [![PostgreSQL][pgs]][pgs-url]<a> PostgreSQL - простая, неограниченная, расширяемая СУБД</a>
 
 
+## Интерфейс
+фотки от тимохи
+
+## Roadmap
+- [x] Реализация QR-кодов
+- [x] Реализация теста после сканирования QR
+- [x] Реализация страницы с карточками
+- [x] Реализация поиска
+- [x] Реализация авторизации/регистрации
+- [x] Реализация алгоритма подбора отделения
+- [x] Реализация загруженности
+  - [ ] Реализаци умного гида
+  - [ ] Реализация траты бонусных очков
+  - [ ]
+
+
+## Contact
+
+Yaroslav (Manager, DevOps) - [@osyarik](https://t.me/osyarik)
+  
+Timophey (Capitain/Presentation/UX/UI/ designer) - [@timkoskos](https://t.me/timkoskos)
+  
+Nikita (Backend) - [@idoverchiviiloh](https://t.me/idoverchiviiloh)
+  
+Andrey (UI/UX designer) - [@yyyoner](https://t.me/yyyoner)
+
+Kristina (Frontend) - [@kris_bermud](https://t.me/kris_bermud)
 
 [dj]: https://i122.fastpic.org/big/2023/1111/a2/3df395c85f6f7f194f479500abdd96a2.png
 [dj-url]: https://www.djangoproject.com/
@@ -50,3 +78,5 @@
 [js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [doc]: https://i122.fastpic.org/big/2023/1111/87/8bd4545a1b9a340ab52da4e74b460a87.png
 [doc-url]: https://www.docker.com/
+[pgs]: https://i122.fastpic.org/big/2023/1111/b7/f088361f5a56f5f52ef104b249449cb7.png
+[pgs-url]: https://www.postgresql.org/
