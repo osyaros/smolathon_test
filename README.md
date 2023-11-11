@@ -78,5 +78,5 @@ Kristina (Frontend) - [@kris_bermud](https://t.me/kris_bermud)
 [js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [doc]: https://i122.fastpic.org/big/2023/1111/87/8bd4545a1b9a340ab52da4e74b460a87.png
 [doc-url]: https://www.docker.com/
-[pgs]: https://i122.fastpic.org/big/2023/1111/b7/f088361f5a56f5f52ef104b249449cb7.png
+[pgs]: https://i122.fastpic.org/big/2023/1111/ce/2fde29f1d98d5b2d71c5bbb66c28cace.png
 [pgs-url]: https://www.postgresql.org/
